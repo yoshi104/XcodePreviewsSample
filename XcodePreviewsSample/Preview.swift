@@ -40,7 +40,6 @@ struct CustomViewPreview: PreviewProvider {
                 .setBackgroundColor(color: .red),
                 .setLabelText(text: "fuga")])
             .previewDisplayName("customView_2")
-            
         }
     }
 }
